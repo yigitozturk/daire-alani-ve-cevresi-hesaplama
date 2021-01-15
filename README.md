@@ -1,1 +1,2 @@
-# daire-alan-ve-evresi-algoritmas-
+# https://www.instagram.com/yiitoztrk/
+# https://twitter.com/JanDeQuay
