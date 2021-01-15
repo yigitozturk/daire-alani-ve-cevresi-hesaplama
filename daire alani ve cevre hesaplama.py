@@ -7,7 +7,7 @@ print("")
 print("")
 print("Daire alanı {}".format(dairealani))
 
-#Daire Çevresi Hesaplayıcı
+# Daire Çevresi Hesaplayıcı
 dairecevresi = pi*2*yaricap
 print("")
 print("")
