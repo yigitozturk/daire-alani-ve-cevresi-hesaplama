@@ -1,2 +1,2 @@
 # https://www.instagram.com/yiitoztrk/
-# https://twitter.com/JanDeQuay
+# https://twitter.com/yigittahaoztrk
